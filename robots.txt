@@ -1,11 +1,4 @@
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: googlebot
-Allow: /
-
 User-agent: *
 Allow: /
+
+Sitemap: https://melscleaningservices.uk/sitemap.xml
